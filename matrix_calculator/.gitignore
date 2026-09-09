@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environment
+.venv/
+venv/
+
+# Compiled native libraries
+*.so
+*.dylib
+*.o
+
+# OS
+.DS_Store
